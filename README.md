@@ -16,3 +16,5 @@ CI/CD pipeline using GitHub Actions to deploy applications on AWS EC2 with Cloud
 
 ### CloudWatch Monitoring
 ![CloudWatch](cloudwatch-monitoring.png)
+### CloudWatch CPU Alarm
+![CloudWatch Alarm](cloudwatch-cpu-alarm.png)
